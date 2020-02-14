@@ -1,0 +1,1 @@
+This is soup's first git project.
